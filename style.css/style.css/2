@@ -1,0 +1,44 @@
+:root {
+    --font-xs: 0.75rem;
+    --font-sm: 0.875rem;
+    --font-base: 1rem;
+    --font-lg: 1.125rem;
+    --font-xl: 1.25rem;
+    --font-2xl: 1.5rem;
+    --font-3xl: 1.875rem;
+    --font-4xl: 2.25rem;
+}
+
+h1 {
+    font-size: var(--font-4xl);
+}
+
+h2 {
+    font-size: var(--font-3xl);
+}
+
+h3 {
+    font-size: var(--font-2xl);
+}
+
+body {
+    font-size: var(--font-base);
+}
+
+small {
+    font-size: var(--font-sm);
+}
+
+
+
+
+:root {
+    --color-primary: #2563eb;
+    --color-secondary: #f59e0b;
+    --color-background: #f8fafc;
+    --color-text: #1e293b;
+    --color-muted: #94a3b8;
+
+    --color-primary-light: #60a5fa;
+    --color-primary-dark: #1d4ed8;
+}
