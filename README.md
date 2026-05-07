@@ -36,9 +36,6 @@ A modern responsive portfolio website built using HTML and CSS.
 portfolio/
 │
 ├── index.html
-├── about.html
-├── projects.html
-├── contact.html
 ├── styles.css
 ├── box-model-practice.html
 └── README.md
